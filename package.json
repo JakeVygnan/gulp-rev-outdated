@@ -1,15 +1,15 @@
 {
-  "name": "gulp-rev-outdated",
-  "version": "0.0.8",
+  "name": "gulp-revth-outdated",
+  "version": "0.0.9",
   "description": "Old static asset revision files filter",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shonny-ua/gulp-rev-outdated"
+    "url": "https://github.com/JakeVygnan/gulp-revth-outdated"
   },
   "author": {
-    "name": "Oleksandr Ovcharenko",
-    "email": "shonny.ua@gmail.com"
+    "name": "Jake Vygnan",
+    "email": "jake.vygnan@gmail.com"
   },
   "main": "index.js",
   "files": [
@@ -52,5 +52,5 @@
   "bugs": {
     "url": "https://github.com/shonny-ua/gulp-rev-outdated/issues"
   },
-  "homepage": "https://github.com/shonny-ua/gulp-rev-outdated"
+  "homepage": "https://github.com/JakeVygnan/gulp-revth-outdated"
 }
