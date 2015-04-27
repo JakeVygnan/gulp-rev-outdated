@@ -1,6 +1,6 @@
 {
   "name": "gulp-revth-outdated",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Old static asset revision files filter",
   "license": "MIT",
   "repository": {
